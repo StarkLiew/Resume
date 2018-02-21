@@ -26,8 +26,8 @@
 ## Related Product Experience
 
 #### Salun.POS – Founder and Software Developer
-* Designed [www.ilikehairdressing.com] (https://www.ilikehairdressing.com) (Wordpress, Photoshop)
-* Created [Salun.POS] (https://www.ilikehairdressing.com/salunpos) (Laravel, AngularJS, MYSQL)
+* Designed [www.ilikehairdressing.com](https://www.ilikehairdressing.com) (Wordpress, Photoshop)
+* Created [Salun.POS](https://www.ilikehairdressing.com/salunpos) (Laravel, AngularJS, MYSQL)
 * Deployed Salun.POS app on AliCloud
 * Create static and video promotion (Photoshop, Inkscape, Blackmagic Fusion, iMovie)
 
@@ -49,8 +49,7 @@
 
 ## Online Course Completion
 * Completed online Free ITIL Training Course 
-* [Completed 101JS: MongoDB for Node.js Developers ] ((http://education.mongodb.com/downloads/certificates/f9acafdcca7042f59478c6c21803eed9/Certificate.pdf)
-)
+* [Completed 101JS: MongoDB for Node.js Developers](http://education.mongodb.com/downloads/certificates/f9acafdcca7042f59478c6c21803eed9/Certificate.pdf)
 ## Continous learning
 
 * Interested in learning more about Machine Learning (ML) especially exploring TensorFlow.
