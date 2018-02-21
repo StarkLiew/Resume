@@ -49,8 +49,8 @@
 
 ## Online Course Completion
 * Completed online Free ITIL Training Course 
-* Completed 101JS: MongoDB for Node.js Developers (http://education.mongodb.com/downloads/certificates/f9acafdcca7042f59478c6c21803eed9/Certificate.pdf)
-
+* [Completed 101JS: MongoDB for Node.js Developers ] ((http://education.mongodb.com/downloads/certificates/f9acafdcca7042f59478c6c21803eed9/Certificate.pdf)
+)
 ## Continous learning
 
 * Interested in learning more about Machine Learning (ML) especially exploring TensorFlow.
