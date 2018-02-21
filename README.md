@@ -1,6 +1,6 @@
 # Stark Liew
 
- * [linkedin.com/in/starkliew](https://www.linkedin.com/in/starkliew/)
+ * [linkedin.com/in/starkliew](https://www.linkedin.com/in/stark-liew-bb4113aa/)
 
 ## Experience
 
