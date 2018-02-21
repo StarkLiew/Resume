@@ -8,7 +8,7 @@
 
 ##### Achievements:
 * Founded iLike Hairdressing.
-* Survived in a Hotelling's Law business environment with sufficient turnover before breakeven.
+* Survived to sustain in a Hotelling's Law environment with sufficient turnover before breakeven.
 
 ##### Soft Accomplishments:
 
