@@ -26,7 +26,7 @@
 ## Related Product Experience
 
 #### Salun.POS – Founder and Software Developer
-* Designed [www.ilikehairdressing.com] (https://www.ilikehairdressing.com)(Wordpress, Photoshop)
+* Designed [www.ilikehairdressing.com] (https://www.ilikehairdressing.com) (Wordpress, Photoshop)
 * Created [Salun.POS] (https://www.ilikehairdressing.com/salunpos) (Laravel, AngularJS, MYSQL)
 * Deployed Salun.POS app on AliCloud
 * Create static and video promotion (Photoshop, Inkscape, Blackmagic Fusion, iMovie)
