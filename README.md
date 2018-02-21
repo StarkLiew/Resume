@@ -12,7 +12,7 @@
 
 ##### Soft Accomplishments:
 
-* Contributed upgraded to JasperPHP with JSON support. Pull request was accepted and merged into latest version. [cossou/JasperPHP](https://github.com/cossou/JasperPHP/pull/79)
+* Contributed upgraded to [cossou/JasperPHP](https://github.com/cossou/JasperPHP/pull/79) with JSON support. Pull request was accepted and merged into latest version. 
 
 ## Skills
 
