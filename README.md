@@ -46,6 +46,11 @@
  * Microsoft Certified Professional 
  * Microsoft Certified System Engineer
 
+
+## Online Course Completion Certificate
+* Completed online Free ITIL Training Course 
+* Completed 101JS: MongoDB for Node.js Developers
+
 ## Continous learning
 
 * Interested in learning more about Machine Learning (ML) especially exploring TensorFlow.
