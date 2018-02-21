@@ -41,6 +41,10 @@
 
  * Executive Master in Managment, Asie-E-University
  * Diploma in Information Technology major Software Engineering, Northern Territory University of Australia
+ 
+## Certification
+ * Microsoft Certified Professional 
+ * Microsoft Certified System Engineer
 
 ## Continous learning
 
