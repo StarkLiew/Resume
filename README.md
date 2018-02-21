@@ -47,7 +47,7 @@
  * Microsoft Certified System Engineer
 
 
-## Online Course Completion Certificate
+## Online Course Completion
 * Completed online Free ITIL Training Course 
 * Completed 101JS: MongoDB for Node.js Developers
 
