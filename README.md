@@ -53,6 +53,6 @@
 ## Continous learning and research
 
 * Blockchain technology espcially Ethereum Smart Contracts.
-* Decentralise data.
+* Decentralised data.
 * Interested in learning more about Machine Learning (ML) especially exploring TensorFlow.
 
