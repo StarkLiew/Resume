@@ -15,11 +15,10 @@
 * Contributed upgraded to [cossou/JasperPHP](https://github.com/cossou/JasperPHP/pull/79) with JSON support. Pull request was accepted and merged into latest version. 
 
 ## Skills
-
 *	Javascript, HTML, CSS
-*	AngularJS, jQuery, TypeScript
+*	VueJS, AngularJS, jQuery, TypeScript
 *	Sass, Bootstrap
-*	Laravel, Ionic, Mean.IO
+*	Nuxt, Laravel, Ionic, Mean.IO
 * MySQL, MongoDB, ProgressDB
 * Jasper Report
 
