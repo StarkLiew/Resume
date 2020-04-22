@@ -26,6 +26,7 @@
 *	Nuxt, Laravel, Ionic, Mean.IO
 * MySQL, MongoDB, ProgressDB
 * Jasper Report
+* Flutter (Dart)
 
 ## Related Product Experience
 
