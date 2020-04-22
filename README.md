@@ -4,6 +4,8 @@
 
 ## Experience
 
+#### Full Stack Engineer | Lausanne, SW, Apr 2020 - Present
+
 #### iLike, Founder & Business Developer |  Seremban, MY, Mar 2017 - Present
 
 ##### Achievements:
